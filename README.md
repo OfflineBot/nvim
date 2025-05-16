@@ -14,4 +14,5 @@ My Neovim config with lazy.nvim inspiered by [[https://github.com/cpow/neovim-fo
 - telescope
 - treesitter
 - vimtex
+
 And more
