@@ -1,7 +1,7 @@
 
 My Neovim config with lazy.nvim inspiered by [[https://github.com/cpow/neovim-for-newbs]].
 
-Includes Following Plugins:
+## Includes Following Plugins:
 - autoclose
 - code completion + lsp
 - indent-blankline
@@ -14,4 +14,4 @@ Includes Following Plugins:
 - telescope
 - treesitter
 - vimtex
-
+And more
