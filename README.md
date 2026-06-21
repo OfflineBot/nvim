@@ -1,5 +1,7 @@
 
-My Neovim config with lazy.nvim inspiered by [[https://github.com/cpow/neovim-for-newbs]].
+My Neovim config with lazy.nvim inspiered by [https://github.com/cpow/neovim-for-newbs].
+
+This theme is part of my full linux dotfiles. the full dotfiles repo is currently: [https://github.com/OfflineBot/nix-configuration]
 
 ## Colorscheme
 catppuccin but with transparent background
