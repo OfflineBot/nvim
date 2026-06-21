@@ -53,7 +53,8 @@ der unterschied ist am ende nur die config.
 mit neovim hat man lua zum configurieren.
 
 eine weitere sache. 
-man kann die vim keybinds in fast allen code editoren nutzen (vscode, intellij, etc) aber wenn man neovim (`nvim`) oder vim nutzt hat man die meisten vorteile und man lernt es am besten!
+man kann die vim keybinds in fast allen code editoren nutzen (vscode, intellij, etc) aber wenn man neovim (`nvim`) oder vim nutzt hat man die meisten vorteile und man lernt es am besten! 
+wenn man die maus benutzt macht man was falsch :)
 
 ### so ein paar shortcuts für den anfang
 
@@ -112,6 +113,20 @@ mit `/text` sucht man nach `text` und springt mit `n` zum nächsten treffer, mit
 
 mit `:` kann man 'commands' eingeben. man braucht erstmal nur `:w` zum speichern. `:q` zum quitten (warum man quitten will weiß ich nicht).
 das kann man aber auch kombinieren zu `:wq` zum speichern UND schließen. `:wqa` speichert und schließt ALLE offenen fenster (in nvim). will man rausspringen ohne zu speichern dann `:q!`.
+
+### neo-tree (der dateibaum)
+
+mit `Strg+N` macht man den dateibaum auf und zu (kommt bei mir rechts raus). drin navigiert man ganz normal mit `j` und `k`, mit ENTER macht man einen ordner auf oder eine datei auf. 
+um zwischen den 2 fenster zu springen `STRG+L` zum rechten fenster und `STRG+H` zum linken fenster.
+
+| taste | macht |
+| --- | --- |
+| `a` | neue datei anlegen. packt man am ende ein `/` hin wird es ein ordner (zb `lua/` macht den ordner, `lua/test.lua` die datei) |
+| `d` | löschen |
+| `r` | umbenennen |
+| `c` | kopieren |
+| `x` | ausschneiden |
+| `p` | einfügen |
 
 ### Extras
 
