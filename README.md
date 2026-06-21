@@ -45,6 +45,7 @@ Just run `nvim`. lazy.nvim pulls itself on the first start and installs all plug
 
 For the LSP servers open `:Mason` and pick what you want, or run `:MasonInstall <server>`. Treesitter parsers come via `:TSInstall <language>`.
 
+-------------------------------------------------------------------------
 
 ## kleine randnotiz für potentielle profs
 
